@@ -3,7 +3,7 @@
 ## Live
 
 [Live](https://isabelfuentes7.github.io/Portfolio2/#skills)
-![Watch the img](https://github.com/isabelfuentes7/Portfolio2/blob/main/live.PNG)(https://isabelfuentes7.github.io/Portfolio2/#skills)
+![Watch the img](https://github.com/isabelfuentes7/Portfolio2/blob/main/live.PNG)
 
 ## Instructions
 Updated Portfolio
